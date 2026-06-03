@@ -1,9 +1,7 @@
 {
-  "name": "node-xhttp",
+  "name": "express-node",
   "version": "1.0.0",
-  "description": "nodejs",
-  "author": "eooce",
-  "repository": "",
+  "description": "express-web",
   "license": "MIT",
   "private": false,
   "main": "app.js",
